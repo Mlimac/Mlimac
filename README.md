@@ -3,7 +3,8 @@
 ### 🔹 Estatísticas do GitHub
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArthurAlves06&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=60"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mlimac&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800" />
+
 </div>
 
 
