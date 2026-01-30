@@ -5,4 +5,9 @@
 - 👯 Colaborador The Wavem
 - 📫 Me contate por: mucruzlima272@gmail.com
 
-[![Mlimac's GitHub stats](https://github-readme-stats.vercel.app/api?Mlimac=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/Mlimac">
+  <img heigth="180em" src="https://github.readme-stats.vercel.app/api/api?username=Mlimac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+
+</div>
