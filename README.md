@@ -1,12 +1,5 @@
 ## Olá! Sou o Murilo Lima
 
-### 🔹 Estatísticas do GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mlimac&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800" />
-
-</div>
-
 
 <div align="left">
   <img src="https://img.shields.io/badge/Colaborador_THE_WAVEM-%236A5ACD?style=for-the-badge&logoColor=white"/>
@@ -25,18 +18,6 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>
-
-
-
-
-
-
-
-### 🔹 Tecnologias Mais Utilizadas
-
-<div align="left">
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlves06&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=60"/>
 </div>
 
 
