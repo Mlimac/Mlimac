@@ -1,6 +1,6 @@
 ## Olá! Sou o Murilo Lima
 <div align="left">
-  <a href="thewavem.netlify.app/](https://thewavem.web.app">
+  <a href="https://thewavem.web.app">
   <img src="https://img.shields.io/badge/Colaborador_THE_WAVEM-%236A5ACD?style=for-the-badge&logoColor=white" />
   </a>
     
