@@ -1,10 +1,8 @@
 ## Olá! Sou o Murilo Lima
 <div align="left">
-  <a href="https://thewavem.web.app">
-  <img src="https://img.shields.io/badge/Colaborador_THE_WAVEM-%236A5ACD?style=for-the-badge&logoColor=white" />
-  </a>
+  <a href="https://thewavem.web.app"> <img src="https://img.shields.io/badge/Colaborador_THE_WAVEM-%236A5ACD?style=for-the-badge&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Cibersegurança-%23FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Engenharia_de_Software-%234B0082?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Engenharia_de_Software-%234B0082?style=for-the-badge&logoColor=white"/>
 </div>
 <h4>Bem vindo! Te apresento meus projetos e tragetória na tecnologia</h4>
 
